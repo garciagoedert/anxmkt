@@ -19825,3 +19825,13 @@ background-color: var(--thm-border);
   }
 
 }
+.coverimage {
+  width: 100%;
+  opacity: 0.5;
+  background:
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+}
