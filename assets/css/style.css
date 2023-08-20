@@ -6,18 +6,18 @@
   --thm-font: "Yantramanav", sans-serif; /* Headings */
   --thm-b-font: "Open Sans", sans-serif; /* Body font */
   --thm-base: #161616; /* Primary color */
-  --thm-base-hover: #ffffff; /* Primary hover */
+  --thm-base-hover: #686a6f; /* Primary hover */
   --thm-base-rgb: 255, 170, 23; /* Primary rgb */
   --thm-base-hue: #161616; /* Primary low hue */
   --thm-secondary: #4721b2; /* Secondary */
-  --thm-secondary-hover: #ffffff; /* Secondary */
+  --thm-secondary-hover: #686a6f; /* Secondary */
   --thm-secondary-rgb: 25, 71, 148; /* Secondary rgb */
   --thm-b-text: #686a6f; /* Body text */
-  --thm-b-text-rgb: #ffffff; /* Body text rgb */
-  --thm-border: ##161616; /* Borders */
+  --thm-b-text-rgb: #686a6f; /* Body text rgb */
+  --thm-border: #161616; /* Borders */
   --thm-border-rgb: 225, 225, 225; /* Borders rgb */
   --thm-section-bg: #161616; /* section background */
-  --thm-nav-text: #ffffff; /* navigation text color */
+  --thm-nav-text: #000; /* navigation text color */
   --thm-nav-bg: #000; /* navigation background color */
 }
 
